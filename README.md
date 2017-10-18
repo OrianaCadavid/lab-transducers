@@ -1,2 +1,2 @@
-# lab-transducers
+# Transducers laboratory
 Assignments for Laboratory of transducers
